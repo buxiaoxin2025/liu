@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* 浅蓝色背景 */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+header, footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #add8e6; /* 浅蓝色背景 */
+}
+nav {
+    background-color: #e0ffff; /* 浅蓝色背景 */
+    padding: 10px;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
